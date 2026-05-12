@@ -1,0 +1,4 @@
+Total Revenue = RM83.5
+Restock Item List
+1: Chips, Need: 3
+2: Coffee, Need: 2

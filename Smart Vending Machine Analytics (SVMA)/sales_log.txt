@@ -1,0 +1,10 @@
+Item, Price, Quantity
+Coke, 2.50, 10
+Sprite, 2.50, 5
+Water, 1.00, error
+Chips, 3.50, 2
+
+# Maintenance performed at 2:00 PM
+Chocolate, 4.00,
+Bread, 3.00, 8, Warehouse_A
+Coffee, 5.00, 3
